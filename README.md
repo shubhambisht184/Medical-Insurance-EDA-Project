@@ -1,4 +1,4 @@
-# Medical-Insurance-EDA-Project
+# Healthcare-Insurance-Cost-Analysis
 
 ## 1. Business Problem
 
