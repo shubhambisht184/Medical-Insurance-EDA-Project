@@ -60,5 +60,35 @@ Potential approaches for this project include:
 
 These features can support more detailed comparisons and improve the interpretability of the exploratory analysis.
 
-*Note: The feature engineering steps listed above are potential analytical approaches; they should be described as completed work only if they are actually implemented in the notebook.*
+7. Business Insights
+
+The exploratory data analysis helps identify patterns and relationships between demographic characteristics, lifestyle factors, and medical insurance charges.
+
+Age and Insurance Charges: Analyze how insurance costs vary across different age groups and identify potential trends between age and medical expenses.
+
+BMI and Insurance Charges: Examine the relationship between Body Mass Index (BMI) and insurance charges to understand whether higher BMI values are associated with higher costs.
+
+Smoking Status: Compare insurance charges for smokers and non-smokers to evaluate the association between smoking habits and insurance expenses.
+
+Family Size: Investigate whether the number of children is associated with variations in insurance charges.
+
+Regional Differences: Compare insurance costs across regions to identify geographical variations in the dataset.
+
+Combined Factors: Explore how multiple characteristics, such as age, BMI, and smoking status, relate to insurance charges.
+
+These insights can help highlight important variables for further investigation, support data-driven discussions about insurance costs, and provide a foundation for more advanced statistical analysis or predictive modeling.
+
+8. Project Outcomes
+
+Performed exploratory data analysis on medical insurance data using Python.
+
+Examined numerical and categorical variables using descriptive statistics and data visualization.
+
+Assessed data quality by investigating missing values, duplicate records, data types, and potential outliers.
+
+Explored relationships between demographic characteristics, lifestyle factors, and medical insurance charges.
+
+Identified analytical approaches for comparing insurance costs across different customer segments.
+
+Developed a foundation for further analysis and potential medical insurance cost prediction.
 
